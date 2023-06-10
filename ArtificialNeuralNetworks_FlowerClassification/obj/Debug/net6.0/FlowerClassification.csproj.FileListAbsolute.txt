@@ -1,0 +1,16 @@
+C:\Users\Yiğit\source\repos\FlowerClassification\bin\Debug\net6.0\FlowerClassification.exe
+C:\Users\Yiğit\source\repos\FlowerClassification\bin\Debug\net6.0\FlowerClassification.deps.json
+C:\Users\Yiğit\source\repos\FlowerClassification\bin\Debug\net6.0\FlowerClassification.runtimeconfig.json
+C:\Users\Yiğit\source\repos\FlowerClassification\bin\Debug\net6.0\FlowerClassification.dll
+C:\Users\Yiğit\source\repos\FlowerClassification\bin\Debug\net6.0\FlowerClassification.pdb
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\FlowerClassification.csproj.AssemblyReference.cache
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\FlowerClassification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\FlowerClassification.AssemblyInfoInputs.cache
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\FlowerClassification.AssemblyInfo.cs
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\FlowerClassification.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\FlowerClassification.dll
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\refint\FlowerClassification.dll
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\FlowerClassification.pdb
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\FlowerClassification.genruntimeconfig.cache
+C:\Users\Yiğit\source\repos\FlowerClassification\obj\Debug\net6.0\ref\FlowerClassification.dll
+C:\Users\Yiğit\source\repos\FlowerClassification\bin\Debug\net6.0\iris.data
